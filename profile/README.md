@@ -15,7 +15,7 @@ Upstream repository is available @[systemd/systemd](https://github.com/systemd/s
 - [Red Hat Enterprise Linux 8](https://github.com/redhat-plumbers/systemd-rhel8)
 - [Red Hat Enterprise Linux 7](https://github.com/redhat-plumbers/systemd-rhel7)
 
-**How to contribute?** - Please follow our downstream [CONTRIBUTING](../docs/SYSTEMD_CONTRIBUTING.md) document.
+**How to contribute?** - Please follow our downstream [CONTRIBUTING](https://github.com/redhat-plumbers/.github/blob/main/docs/SYSTEMD_CONTRIBUTING.md) document.
 
 ### dracut
 
