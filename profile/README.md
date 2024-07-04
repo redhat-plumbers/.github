@@ -23,6 +23,7 @@ Upstream repository is available @[systemd/systemd](https://github.com/systemd/s
 Upstream repository is available @[dracut-ng/dracut-ng](https://github.com/dracut-ng/dracut-ng).
 
 - [Fedora](https://github.com/redhat-plumbers/dracut-fedora)
+- [Red Hat Enterprise Linux 10](https://github.com/redhat-plumbers/dracut-rhel10)
 - [Red Hat Enterprise Linux 9](https://github.com/redhat-plumbers/dracut-rhel9)
 - [Red Hat Enterprise Linux 8](https://github.com/redhat-plumbers/dracut-rhel8)
 
