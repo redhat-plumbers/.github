@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 'lts/*'
 
-      - run: npx fixdiscover --component systemd
+      - run: npx fixdiscover --component systemd --login systemd-maint@redhat.com
         env:
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
           GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
