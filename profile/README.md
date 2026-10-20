@@ -32,3 +32,9 @@ Upstream repository is available @[dracut-ng/dracut-ng](https://github.com/dracu
 Upstream repository is available @[util-linux/util-linux](https://github.com/util-linux/util-linux).
 
 - [Red Hat Enterprise Linux](https://github.com/redhat-plumbers/util-linux-rhel)
+
+### curl
+
+Upstream repository is available @[curl/curl](https://github.com/curl/curl).
+
+- [Fedora](https://github.com/redhat-plumbers/curl-fedora)
